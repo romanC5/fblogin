@@ -162,6 +162,7 @@ display: none;
         justify-self: center;
     }
    .content{
+    font-size: medium;
     display: grid;
     max-width: 100%;
     justify-content: center;
